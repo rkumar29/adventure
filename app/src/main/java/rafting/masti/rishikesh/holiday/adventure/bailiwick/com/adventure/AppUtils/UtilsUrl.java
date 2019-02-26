@@ -5,12 +5,7 @@ package rafting.masti.rishikesh.holiday.adventure.bailiwick.com.adventure.AppUti
  */
 
 public class UtilsUrl {
-    //    public static final String BASE_URL = "http://bailiwicksolution.com/adventure/apis.php";
-   // public static final String BASE_URL = "http://indianadventurepackages.com/adventure_new/apis.php";
-   // public static final String IMAGEBASE_URL = "http://indianadventurepackages.com/adventure_new";
-
-    public static final String BASE_URL = "http://indianadventurepackages.com/apis.php";
-     public static final String IMAGEBASE_URL = "http://indianadventurepackages.com/";
+   
 
     public static final String Action_register = "registration";
     public static final String Action_Login = "login";
